@@ -3,6 +3,8 @@
 
  This project consist of 3500 lines of code which took 26 hours to write.
 
+![alt text](https://i.imgur.com/CfG9PzX.jpeg)
+
 # The Server App:
 -Supports up to 128 clients (limited and can be extended to 256)
 
