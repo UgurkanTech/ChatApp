@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/jars/aopalliance-repackaged-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/hk2-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/hk2-locator-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/hk2-utils-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/jackson-annotations-2.12.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jackson-core-2.12.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jackson-databind-2.12.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jackson-module-jaxb-annotations-2.12.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.activation-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.annotation-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.inject-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.servlet-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.validation-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jakarta.ws.rs-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/javassist-3.25.0-GA.jar"/>
+	<classpathentry kind="lib" path="src/jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-client-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-common-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-container-jetty-http-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-entity-filtering-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-hk2-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-media-json-jackson-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jersey-server-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/jars/jetty-http-11.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jetty-io-11.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jetty-server-11.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/jetty-util-11.0.0.jar"/>
+	<classpathentry kind="lib" path="src/jars/osgi-resource-locator-1.0.3.jar"/>
+	<classpathentry kind="lib" path="src/jars/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="src/jars/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
